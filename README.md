@@ -1,4 +1,4 @@
-# Assignment 1 Operating System Class
+# Assignment 2 Operating System Class
 
 **Nama : Cicely Patricia Sinaulan** <br>
 **NIM  : 1313619007** <br>
